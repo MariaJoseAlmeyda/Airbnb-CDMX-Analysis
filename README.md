@@ -7,9 +7,9 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 - README.md: Introducción y resumen
 - analysis.md: Explicación detallada de las gráficas
 - img/: Capturas de los gráficos
-- scripts/
--   data_cleaning.ipynb: limpieza y preparación de datos
--   alysis.ipynb: Análisis, visualizaciones y gráficas
+- scripts/:
+  data_cleaning.ipynb: limpieza y preparación de datos
+  alysis.ipynb: Análisis, visualizaciones y gráficas
 - listings_data: Datos utilizados
 - requirements.txt: Librerías necesarias
 
