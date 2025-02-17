@@ -19,3 +19,19 @@ Python 3.10+
 - seaborn
 - scikit-learn
 - statsmodels
+
+## Instala las dependencias con:
+pip install -r requirements.txt
+
+# Cómo Ejecutarlo
+jupyter notebook analysis.ipynb
+
+# Gráficos y Resultados
+
+
+# Conclusiones
+
+Las mejores zonas para invertir según el modelo son: Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan.
+Las habitaciones privadas son las más recomendadas por su balance entre rentabilidad y popularidad.
+
+
