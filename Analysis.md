@@ -3,13 +3,15 @@
 Este documento detalla los análisis realizados sobre los listados de Airbnb en la Ciudad de México, incluyendo la metodología utilizada, las variables analizadas y las conclusiones obtenidas.
 
 ## 1. Objetivo del Análisis
-El objetivo principal es identificar las mejores zonas para invertir en un Airbnb, considerando variables como el número de reseñas, la disponibilidad y el rango de precios.
+Este proyecto tiene como propósito responder diferentes preguntas analíticas relacionadas con el precio, la disponibilidad y el número de reseñas, considerando variables clave como la zona (neighbourhood) y el tipo de habitación (room_type). A través de este análisis, se busca identificar las mejores zonas y tipos de alojamiento para realizar inversiones rentables en Airbnb.
 
 ## 2. Variables Analizadas
-El presente proyecto busca responder diferentes preguntas sobre el precio, la disponibilidad y el numero de reseñas de diferentes variables como la zona y el tipo de habitacion, para poder ayudarnos a decidir la mejor zona y tipo de habitacion para la realizacion de inversiones
-- **Número de reseñas (`number_of_reviews`)**: Indica la popularidad del listado.
-- **Disponibilidad (`availability_365`)**: Días disponibles al año para reservaciones.
-- **Rango de precios (`price_range`)**: Diferencia entre el precio máximo y mínimo de cada barrio.
+- Zona (neighbourhood): Área o colonia donde se encuentra el alojamiento, clave para identificar zonas con alta demanda.
+- Tipo de habitación (room_type): Categoría de alojamiento (Entire home/apt, Private room, Shared room, Hotel room), lo que influye en la experiencia y costo.
+- Precio (price): Costo por noche del listado, fundamental para evaluar la rentabilidad.
+- Noches mínimas (minimum_nights): Cantidad mínima de noches que se debe reservar, relevante para estimar el flujo de ingresos.
+- Número de reseñas (number_of_reviews): Refleja la popularidad y frecuencia de uso del alojamiento.
+- Disponibilidad (availability_365): Número de días al año en que el alojamiento está disponible para reservaciones.
 
 ## 3. Analisis Descriptivo General
 - **Resumen Estadistico General**
@@ -26,7 +28,7 @@ En estos histogramas podemos obserbar la distribucion de precios y de reseñas:
 En la distribución de precios (izquierda), la mayoría de los listados tienen precios entre 500 y 2,000 pesos, con un pico notable alrededor de los 1,000 pesos. A medida que el precio aumenta, la cantidad de listados disminuye significativamente, pero aún existen listados premium con precios cercanos a los 5,000 pesos, aunque son poco frecuentes.
 En la distribución del número de reseñas (derecha), observamos que un gran porcentaje de los listados tienen menos de 10 reseñas, siendo 0 reseñas el valor más frecuente. Sin embargo, algunos listados muy populares destacan al contar con más de 200 reseñas, lo que indica su alta demanda y uso frecuente.
 
-## Preguntas a responder con el analisis de variables 
+## Preguntas a responder con el analisis de variables: 
 
 - ¿Qué barrios tienen más listados en Airbnb?
 ![Mapa de listados por barrio](img/mapa_de_listados_por_barrio.png)
