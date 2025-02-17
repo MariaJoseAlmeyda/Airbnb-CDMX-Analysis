@@ -4,6 +4,9 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 
 ---
 
+## Contexto
+La creciente popularidad de plataformas como Airbnb ha transformado el mercado inmobiliario, convirtiéndose en una oportunidad rentable para inversores. Este proyecto busca responder a preguntas clave para identificar dónde y cómo invertir en la Ciudad de México, considerando la demanda, la popularidad de las zonas y las preferencias de los huéspedes.
+
 ## Estructura del Proyecto
 - **README.md**: Introducción y resumen del proyecto.
 - **analysis.md**: Explicación detallada de las gráficas generadas.
@@ -15,6 +18,20 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 - **requirements.txt**: Archivo que especifica las librerías necesarias para reproducir el proyecto.
 
 ---
+
+## Preguntas Clave y Respuestas
+
+**¿Qué zonas tienen más potencial para invertir?**	
+- Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan.
+  
+**¿Qué tipo de habitación es más rentable?**
+- Las habitaciones privadas y apartamentos completos destacan por su rentabilidad.
+  
+**¿Qué zonas tienen mayor disponibilidad?**	
+- Milpa Alta y Tláhuac presentan alta disponibilidad, pero menor demanda según reseñas.
+  
+**¿Qué barrios son más populares según reseñas?**	
+- Venustiano Carranza y Azcapotzalco lideran en promedio de reseñas mensuales.
 
 ## Requisitos
 - **Python 3.10+**
@@ -48,6 +65,7 @@ jupyter notebook scripts/analysis.ipynb
 ## Conclusiones
 - Mejores zonas para invertir: Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan.
 - Tipos de alojamiento recomendados: Habitaciones privadas (Private room), por su balance entre rentabilidad y popularidad.
+- Rango de Precios: El precio promedio es accesible, con una media de aproximadamente $1,280 MXN por noche.
 
 
 
