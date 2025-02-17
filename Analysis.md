@@ -39,7 +39,7 @@ A medida que nos alejamos del centro, la densidad de listados disminuye notablem
 ![tipos de Habitaciones mas Populares](img/tipo_de_habitaciones_populares.png)
 Las gráficas muestran que el tipo de habitación más popular en los listados de Airbnb es el "Entire home/apt" (Casa/apto entero), con una cantidad considerablemente mayor de listados en comparación con otras opciones como las habitaciones privadas, habitaciones de hotel y, en último lugar, las habitaciones compartidas.
 
-![Cantidad de listados de Entire Home/Apt por zona](img/cantidad_de_listados_entire_homeapt.png)
+![Cantidad de listados de Entire Home/Apt por zona](img/cantidad_de_listados_homeapt.png)
 La zona de Cuauhtémoc destaca como el área con la mayor cantidad de listados de "Entire home/apt", lo que no sorprende debido a su ubicación céntrica y su popularidad entre turistas y viajeros. Por otro lado, Milpa Alta se posiciona como la zona con la menor cantidad de este tipo de alojamientos, reflejando su ubicación periférica y menor actividad turística en comparación con otras zonas de la ciudad.
 
 - ¿Qué tan disponibles están los listados durante el año en cada zona?
