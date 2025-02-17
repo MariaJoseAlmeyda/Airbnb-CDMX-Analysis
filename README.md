@@ -4,14 +4,21 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 
 # Estructura del Proyecto
 
-- README.md: Introducción y resumen
-- analysis.md: Explicación detallada de las gráficas
-- img/: Capturas de los gráficos
-- scripts/:
-  data_cleaning.ipynb: limpieza y preparación de datos
-  alysis.ipynb: Análisis, visualizaciones y gráficas
-- listings_data: Datos utilizados
-- requirements.txt: Librerías necesarias
+README.md: Introducción y resumen del proyecto.
+
+analysis.md: Explicación detallada de las gráficas generadas.
+
+img/: Carpeta que contiene las capturas de los gráficos generados.
+
+scripts/: Carpeta con los archivos principales de código:
+
+data_cleaning.ipynb: Proceso de limpieza y preparación de datos.
+
+analysis.ipynb: Análisis exploratorio, visualizaciones y generación de gráficas.
+
+listings_data/: Carpeta con los datasets utilizados para el análisis.
+
+requirements.txt: Archivo que especifica las librerías necesarias para reproducir el proyecto.
 
 # Requisitos
 
