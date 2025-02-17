@@ -4,10 +4,14 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 
 # Estructura del Proyecto
 
-- analysis.ipynb: Análisis completo en Jupyter Notebook.
-- requirements.txt: Librerías necesarias.
-- data/: Carpeta para el dataset.
-- images/: Carpeta para los gráficos generados.
+── README.md: Introducción y resumen
+── analysis.md: Explicación detallada de las gráficas
+── img/: Capturas de los gráficos
+── scripts/
+   ── data_cleaning.py: limpieza y preparación de datos
+   ── analysis.py: Análisis, visualizaciones y gráficas
+── listings_data: Datos utilizados
+── requirements.txt: Librerías necesarias
 
 # Requisitos
 
