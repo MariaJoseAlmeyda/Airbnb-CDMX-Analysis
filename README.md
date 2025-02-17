@@ -27,7 +27,11 @@ pip install -r requirements.txt
 jupyter notebook analysis.ipynb
 
 # Gráficos y Resultados
-
+```bash
+git add img/*
+git commit -m "Añadidas imágenes de los gráficos"
+git push origin main
+```
 
 # Conclusiones
 
