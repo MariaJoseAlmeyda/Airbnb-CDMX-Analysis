@@ -4,21 +4,14 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 
 # Estructura del Proyecto
 
-── README.md: Introducción y resumen
-
-── analysis.md: Explicación detallada de las gráficas
-
-── img/: Capturas de los gráficos
-
-── scripts/
-
-   ── data_cleaning.py: limpieza y preparación de datos
-   
-   ── analysis.py: Análisis, visualizaciones y gráficas
-   
-── listings_data: Datos utilizados
-
-── requirements.txt: Librerías necesarias
+- README.md: Introducción y resumen
+- analysis.md: Explicación detallada de las gráficas
+- img/: Capturas de los gráficos
+- scripts/
+-   data_cleaning.ipynb: limpieza y preparación de datos
+-   alysis.ipynb: Análisis, visualizaciones y gráficas
+- listings_data: Datos utilizados
+- requirements.txt: Librerías necesarias
 
 # Requisitos
 
