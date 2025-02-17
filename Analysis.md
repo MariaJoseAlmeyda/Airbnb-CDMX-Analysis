@@ -60,20 +60,15 @@ Por otro lado, Tlahuac, con precios más bajos y mayor disponibilidad, muestra u
 ![Tipo de habitacion con mas reseñas](img/habitaciones_can_mas_reseñas.png)
 En cuanto al tipo de habitación, Entire home/apt no solo es la opción más popular, sino también la que recibe más reseñas, lo que refuerza su preferencia entre los huéspedes. Un dato interesante es que las habitaciones compartidas (Shared room) reciben más reseñas que las habitaciones privadas (Private room) y las habitaciones de hotel (Hotel room), lo que podría reflejar una mayor interacción social en este tipo de alojamientos o un menor costo que motiva a los viajeros a compartir sus experiencias con mayor frecuencia.
 
+- ¿Cuáles son las mejores zonas para invertir en un Airbnb?
+![Mejores zonas para invertir](img/mejores_zonas_para_invertir.png)
+Las mejores cinco zonas para invertir en Airbnb en la Ciudad de México, según la puntuación calculada, son Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan. Esta clasificación se obtiene mediante un análisis que pondera el número de reseñas, el rango de precios y la disponibilidad, dando más peso a aquellas zonas con alto movimiento de reseñas y una mayor variedad de precios. Por otro lado, las zonas menos recomendadas para invertir son Iztacalco, Venustiano Carranza, Iztapalapa, Azcapotzalco y Tláhuac, debido a su menor atractivo según los mismos criterios. Este modelo prioriza barrios con alta actividad de usuarios (reseñas), una amplia variabilidad en precios (posibilidades de rentabilidad diversa) y menor disponibilidad, ya que una alta ocupación suele reflejar mayor demanda y competitividad en la zona.
 
+- ¿Cual es el mejor tipo de habitacion para invertir?
+![Mejores tipos de habitacion para invertir en Airbnb](img/mejores_habitaciones_para_invertir.png)
+Podemos observar que "Private room" y "Entire home/apt" presentan puntuaciones muy similares, lo que sugiere que ambos son excelentes opciones para invertir. Esto refleja una preferencia de los huéspedes por alojamientos que ofrezcan privacidad y comodidad, factores clave en la elección de hospedaje. "Hotel room" también muestra una puntuación competitiva, lo que lo convierte en una opción atractiva; sin embargo, es importante considerar que este tipo de inversión suele requerir un mayor capital inicial y costos de mantenimiento. Por otro lado, "Shared room" obtiene la puntuación más baja, lo que indica que es la opción menos recomendable para invertir, probablemente porque los clientes valoran más la privacidad y la independencia, lo que hace que las habitaciones compartidas tengan menor demanda y rentabilidad.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## 📈 4. Conclusiones
-Los barrios con mejor potencial de inversión tienen un equilibrio entre un alto número de reseñas, una disponibilidad moderada y un rango de precios amplio. Zonas con precios extremadamente altos o con demasiada disponibilidad pueden no ser tan rentables.
+## 4. Conclusiones
+Las mejores zonas para invertir, como Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan, destacan por su alta actividad de usuarios (evidenciada en el número de reseñas) y una amplia variabilidad en precios, lo que sugiere que son áreas populares y rentables. Por otro lado, las zonas menos recomendadas (Iztacalco, Venustiano Carranza, Iztapalapa, Azcapotzalco y Tláhuac) muestran menor movimiento y competitividad, lo que sugiere una demanda más baja o menor atractivo para los visitantes. 
+En cuanto a el mejor tipo de habitacion para invertir los huéspedes tienden a preferir alojamientos que ofrezcan mayor privacidad, como habitaciones privadas (Private room) y apartamentos completos (Entire home/apt). Esto se refleja en las altas puntuaciones obtenidas por estos tipos de alojamiento, lo que indica una mayor demanda y potencial de rentabilidad. Las habitaciones compartidas (Shared room) son la opción menos rentable debido a la menor demanda, lo que confirma que la privacidad es un factor decisivo para los huéspedes.
+En conclusión, se recomienda enfocar las inversiones en zonas con alta actividad y amplia variedad de precios, así como en tipos de alojamiento que prioricen la privacidad, como habitaciones privadas y apartamentos completos. Además, es aconsejable realizar un análisis más detallado sobre la relación costo-beneficio entre las inversiones en hoteles y aquellas en habitaciones privadas o apartamentos completos, considerando factores como rentabilidad, costos operativos y mantenimiento. Por último, se sugiere profundizar en el estudio de las preferencias de los clientes para comprender mejor qué aspectos influyen en su elección entre diferentes tipos de alojamiento, como ubicación, comodidades, precio y políticas de hospedaje.
