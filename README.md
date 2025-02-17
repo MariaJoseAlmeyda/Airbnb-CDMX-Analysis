@@ -12,9 +12,9 @@ Este proyecto analiza los listados de Airbnb para identificar las mejores zonas 
 
 **scripts/:** Carpeta con los archivos principales de código:
 
-**data_cleaning.ipynb:** Proceso de limpieza y preparación de datos.
+- **data_cleaning.ipynb:** Proceso de limpieza y preparación de datos.
 
-**analysis.ipynb:** Análisis exploratorio, visualizaciones y generación de gráficas.
+- **analysis.ipynb:** Análisis exploratorio, visualizaciones y generación de gráficas.
 
 **listings_data/:** Carpeta con los datasets utilizados para el análisis.
 
