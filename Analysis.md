@@ -47,7 +47,7 @@ A medida que nos alejamos del centro, la densidad de listados disminuye notablem
 - ¿Qué tipos de habitaciones son más populares y donde se encuentran?
 - 
 ![tipos de Habitaciones mas Populares](img/tipo_de_habitaciones_populares.png)
-Las gráficas muestran que el tipo de habitación más popular en los listados de Airbnb es el "Entire home/apt" (Casa/apto entero), con una cantidad considerablemente mayor de listados en comparación con otras opciones como las habitaciones privadas, habitaciones de hotel y, en último lugar, las habitaciones compartidas. Lo que sugiere que los huéspedes prefieren espacios completos para mayor comodidad.
+Las gráficas muestran que el tipo de habitación más popular en los listados de Airbnb es el "Entire home/apt" (Casa/apto entero), con una cantidad considerablemente mayor de listados en comparación con otras opciones como las habitaciones privadas, habitaciones de hotel y, en último lugar, las habitaciones compartidas.
 
 ![Cantidad de listados de Entire Home/Apt por zona](img/cantidad_de_listados_homeapt.png)
 
@@ -79,7 +79,7 @@ Por otro lado, Tlahuac, con precios más bajos y mayor disponibilidad, muestra u
 
 ![Tipo de habitacion con mas reseñas](img/habitaciones_can_mas_reseñas.png)
 
-En cuanto al tipo de habitación, Entire home/apt no solo es la opción más popular, sino también la que recibe más reseñas, lo que refuerza su preferencia entre los huéspedes. Un dato interesante es que las habitaciones compartidas (Shared room) reciben más reseñas que las habitaciones privadas (Private room) y las habitaciones de hotel (Hotel room), lo que podría reflejar una mayor interacción social en este tipo de alojamientos o un menor costo que motiva a los viajeros a compartir sus experiencias con mayor frecuencia.
+En cuanto al tipo de habitación, Entire home/apt no solo es la opción con más listados, sino también la que recibe más reseñas.. Un dato interesante es que las habitaciones compartidas (Shared room) reciben más reseñas que las habitaciones privadas (Private room) y las habitaciones de hotel (Hotel room), lo que podría reflejar una mayor interacción social en este tipo de alojamientos o un menor costo que motiva a los viajeros a compartir sus experiencias con mayor frecuencia.
 
 - ¿Cuáles son las mejores zonas para invertir en un Airbnb?
 ![Mejores zonas para invertir](img/mejores_zonas_para_invertir.png)
