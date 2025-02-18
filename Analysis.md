@@ -46,12 +46,12 @@ A medida que nos alejamos del centro, la densidad de listados disminuye notablem
 
 - ¿Qué tipos de habitaciones son más populares y donde se encuentran?
 - 
-![tipos de Habitaciones mas Populares](img/tipo_de_habitaciones_populares.png)
-Las gráficas muestran que el tipo de habitación más popular en los listados de Airbnb es el "Entire home/apt" (Casa/apto entero), con una cantidad considerablemente mayor de listados en comparación con otras opciones como las habitaciones privadas, habitaciones de hotel y, en último lugar, las habitaciones compartidas.
+![tipos de Habitaciones mas Populares](img/promedio_disponibilidad_por_tipo_de_habitacion.png)
+Las gráficas muestran que, según el promedio de disponibilidad anual, las habitaciones compartidas (Shared room) son las que permanecen más tiempo disponibles, seguidas de las habitaciones privadas (Private room) y los apartamentos completos (Entire home/apt). Las habitaciones de hotel (Hotel room) presentan un promedio ligeramente menor de días disponibles. Esta tendencia sugiere que las habitaciones compartidas podrían tener menor demanda, manteniéndose más tiempo vacías, mientras que las habitaciones privadas y apartamentos completos, a pesar de su menor disponibilidad, podrían ser más rentables debido a una mayor ocupación y preferencia de los huéspedes por la privacidad.
 
-![Cantidad de listados de Entire Home/Apt por zona](img/cantidad_de_listados_homeapt.png)
+![Cantidad de listados de Hotel Room por zona](img/cantidad_de_listados_Hotel.png)
 
-Las zonas con más listados de apartamentos completos son Cuauhtémoc, Miguel Hidalgo y Benito Juárez, lo que refleja una alta competencia, pero también una alta demanda. Por otro lado, Milpa Alta se posiciona como la zona con la menor cantidad de este tipo de alojamientos, reflejando su ubicación periférica y menor actividad turística en comparación con otras zonas de la ciudad.
+Las zonas con más listados de habitaciones de Hotel es Cuauhtémoc, Miguel Hidalgo y Alvaro Obregon, lo que refleja una alta competencia, pero también una alta demanda. Por otro lado, Coyoacán se posiciona como la zona con la menor cantidad de este tipo de alojamientos, reflejando su ubicación periférica y menor actividad turística en comparación con otras zonas de la ciudad.
 
 - ¿Qué tan disponibles están los listados durante el año en cada zona?
 ![disponibilidad Promedio por zona](img/disponibilidad_promedio_por_Zona.png)
