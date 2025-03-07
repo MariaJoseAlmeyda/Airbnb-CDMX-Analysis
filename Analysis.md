@@ -68,8 +68,13 @@ Podemos observar en la grafica de barras que las casas y departamentos enteros g
 
 
 - **Recomendaciones Finales**
+  
 Los departamentos y casas completas tienen el mejor desempeño en términos de ganancia anual. Además, las zonas con mayor rentabilidad como Cuauhtémoc, Venustiano Carranza y Miguel Hidalgo presentan una alta actividad y buena relación entre precio y ocupación.
+
 Si bien contar con un número suficiente de amenidades puede mejorar la experiencia del huésped, no se encontró una correlación fuerte entre la cantidad de amenidades y la rentabilidad anual. 
+
 Aunque las reseñas no afectan directamente las ganancias, un perfil bien optimizado y con comentarios positivos puede ayudar a atraer más huéspedes. Estrategias como descuentos por reservas largas, optimización de fotos y descripciones atractivas pueden mejorar la conversión de reservas.
+
 Zonas con alta competencia pueden reducir la rentabilidad, ya que más opciones disponibles pueden fragmentar la demanda. Analizar la cantidad de listados en la zona y sus precios ayudará a tomar decisiones más informadas sobre dónde invertir y cómo diferenciar un listado.
+
 Aunque los listados más caros pueden generar más ingresos por reserva, la rentabilidad anual depende más de la cantidad de días rentados. Enfocarse en estrategias para mantener una alta ocupación será clave.
