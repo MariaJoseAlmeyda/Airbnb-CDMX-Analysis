@@ -22,16 +22,11 @@ La creciente popularidad de plataformas como Airbnb ha transformado el mercado i
 ## Preguntas Clave y Respuestas
 
 **¿Qué zonas tienen más potencial para invertir?**	
-- Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan.
+- Cuauhtémoc, Venustiano Carranza y Miguel Hidalgo.
   
 **¿Qué tipo de habitación es más rentable?**
 - Las habitaciones privadas y apartamentos completos destacan por su rentabilidad.
   
-**¿Qué zonas tienen mayor disponibilidad?**	
-- Milpa Alta y Tláhuac presentan alta disponibilidad, pero menor demanda según reseñas.
-  
-**¿Qué barrios son más populares según reseñas?**	
-- Venustiano Carranza y Azcapotzalco lideran en promedio de reseñas mensuales.
 
 ## Requisitos
 - **Python 3.10+**
@@ -63,8 +58,8 @@ jupyter notebook scripts/analysis.ipynb
 ```
 
 ## Conclusiones
-- Mejores zonas para invertir: Cuauhtémoc, Coyoacán, La Magdalena Contreras, Miguel Hidalgo y Tlalpan.
-- Tipos de alojamiento recomendados: Habitaciones privadas (Private room), por su balance entre rentabilidad y popularidad.
+- Mejores zonas para invertir: Cuauhtémoc, Venustiano Carranza y Miguel Hidalgo .
+- Tipos de alojamiento recomendados:Apartamentos completos, por su balance entre rentabilidad y popularidad.
 - Rango de Precios: El precio promedio es accesible, con una media de aproximadamente $1,280 MXN por noche.
 
 
