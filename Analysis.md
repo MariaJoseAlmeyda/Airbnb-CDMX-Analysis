@@ -33,10 +33,10 @@ En este gráfico podemos observar que el número de reseñas en los últimos 12 
 
 En este gráfico podemos observar que el número de amenidades ofrecidas en un alojamiento no tiene una relación clara con las ganancias anuales. Aunque podríamos suponer que una mayor cantidad de amenidades podría traducirse en una mejor experiencia para los huéspedes y, por lo tanto, en mayores ingresos, la dispersión de los puntos indica que no existe una correlación fuerte entre ambas variables. Si bien algunos listados con muchas amenidades logran altos ingresos, también hay listados con pocas amenidades que generan ganancias similares o incluso mayores.
 
-**Comparación de Zonas y Tipos de Propiedades**
+**Comparación de Zonas**
 **Estrategia de Precios y Amenidades Clave**
-- **Rango de precios por zona y tipo de propiedad**
-![Rango de precios por zona y tipo de propiedad](img/rango_precios_zona_tipo.png)
+- **Rango de precios por zona**
+![Rango de precios por zona](img/rango_precios_zona_tipo.png)
 
 En este boxplot podemos observar la distribución de precios en diferentes zonas de la Ciudad de México. Algunas zonas, como Cuauhtémoc y Miguel Hidalgo, presentan una mayor dispersión en los precios, lo que indica una amplia variedad de alojamientos, desde opciones económicas hasta propiedades de lujo. Estas zonas suelen tener una alta oferta y demanda, lo que las hace más competitivas y atractivas para la inversión. Por otro lado, zonas como Iztapalapa, Tláhuac y Xochimilco muestran precios más bajos y una menor variabilidad, lo que podría reflejar menor demanda o menos opciones de alojamiento de lujo. 
 
